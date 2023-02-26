@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 220px;
+    padding-bottom: 100px;
+}
+
+.pagination{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 80px;
+}
+
+.pagination .MuiPaginationItem-page {
+    color: #fff;
+}
+
+.circularSpin {
+    color: #625696 !important;
+}

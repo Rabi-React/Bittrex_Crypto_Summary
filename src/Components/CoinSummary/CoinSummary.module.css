@@ -1,0 +1,20 @@
+.coinCard{
+    background-color: #9a90c5;
+    color: rgb(255,255,255);
+    height: auto;
+    width: 170px;
+    padding: 10px 50px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: museo-sans-rounded,museo-sans,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+}
+
+.positive{
+    color: green;
+}
+.negative{
+    color: #ad1f15;
+}
+.noChange{
+    color: rgb(255,255,255);
+}

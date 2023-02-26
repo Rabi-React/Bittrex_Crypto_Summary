@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    padding-top: 220px;
+}
+
+.errorMsg{
+    color: red;
+    font-size: large;
+}
+
+.circularSpin {
+    color: #625696 !important;
+}
